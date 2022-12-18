@@ -1,16 +1,9 @@
 # presentation_layer
 
-A new Flutter project.
+This the presentation Layer representation for the app.
 
-## Getting Started
+It contains the UI with the flutter bloc architecture for state managment.
 
-This project is a starting point for a Flutter application.
+This app connects with a microservice where data and domain layers are represented.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For confidentiality only code snippets where pushed.
